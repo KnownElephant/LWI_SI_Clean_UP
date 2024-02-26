@@ -1,0 +1,13 @@
+means_class,num_cars,value,year_usd
+Economy,1,12600,2005
+Average,1,13120,2005
+Custom,1,15030,2005
+Luxury,1,17320,2005
+Economy,2,19780,2005
+Average,2,20460,2005
+Custom,2,23850,2005
+Luxury,2,27700,2005
+Economy,3,26750,2005
+Average,3,27580,2005
+Custom,3,32380,2005
+Luxury,3,37630,2005
